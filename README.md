@@ -1,4 +1,4 @@
-<h1>DACov: A deeper analysis of Data Augmentation on the Computed Tomography Segmentation Problem</h1>
+<h1>SalDACov: Improving Data Augmentation applied to the COVID-19 lung CT Segmentation with a novel technique based on Visual Salience</h1>
 
 <div style="display:flex;">
     <img src='images/img1.jpg' style="width:24%;">
@@ -47,6 +47,8 @@ path/to/image3.jpg</p>
 
 <h2>Execute:</h2>
 <p>python augmentation.py gan</p>
+
+<img src="temp.png">
 
 <h2>Citation</h2>
 
