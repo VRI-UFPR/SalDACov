@@ -48,8 +48,6 @@ path/to/image3.jpg</p>
 <h2>Execute:</h2>
 <p>python augmentation.py gan</p>
 
-<img src="temp.png">
-
 <h2>Citation</h2>
 
 ```
@@ -66,3 +64,15 @@ path/to/image3.jpg</p>
     URL = {https://doi.org/10.1080/21681163.2023.2183807},
 }
 ```
+
+<img src='tables/asas.png'>
+<img src='tables/isis.png'>
+<img src='tables/xsxs.png'>
+
+<img src='tables/afaf.png'>
+<img src='tables/ifif.png'>
+<img src='tables/xfxf.png'>
+
+<img src='tables/amam.png'>
+<img src='tables/imim.png'>
+<img src='tables/xmxm.png'>
