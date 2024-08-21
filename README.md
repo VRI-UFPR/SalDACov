@@ -65,14 +65,34 @@ path/to/image3.jpg</p>
 }
 ```
 
-<img src='tables/asas.png'>
-<img src='tables/isis.png'>
-<img src='tables/xsxs.png'>
+<h2> SalDACov evaluation </h2>
 
-<img src='tables/afaf.png'>
-<img src='tables/ifif.png'>
-<img src='tables/xfxf.png'>
+<img src='tables/SalDACov_asas.png'>
+<img src='tables/SalDACov_isis.png'>
+<img src='tables/SalDACov_xsxs.png'>
 
-<img src='tables/amam.png'>
-<img src='tables/imim.png'>
-<img src='tables/xmxm.png'>
+<img src='tables/SalDACov_afaf.png'>
+<img src='tables/SalDACov_ifif.png'>
+<img src='tables/SalDACov_xfxf.png'>
+
+<img src='tables/SalDACov_amam.png'>
+<img src='tables/SalDACov_imim.png'>
+<img src='tables/SalDACov_xmxm.png'>
+
+<h2> SalDACov with generic augmentation techniques evaluation </h2>
+
+<img src='tables/SalDACov_generic1.png'>
+<img src='tables/SalDACov_generic2.png'>
+<img src='tables/SalDACov_generic3.png'>
+
+<h2> DACov evaluation </h2>
+
+<img src='tables/DACov.png'>
+
+<h2> Generic augmentation techniques evaluation </h2>
+
+<img src='tables/unified1.png'>
+<img src='tables/unified2.png'>
+<img src='tables/unified3.png'>
+<img src='tables/unified4.png'>
+<img src='tables/unified5.png'>
