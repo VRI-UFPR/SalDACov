@@ -65,7 +65,7 @@ path/to/image3.jpg</p>
 }
 ```
 
-<h2> SalDACov evaluation </h2>
+<h2> SalDACov Evaluation </h2>
 
 <img src='tables/SalDACov_asas.png'>
 <img src='tables/SalDACov_isis.png'>
@@ -79,17 +79,17 @@ path/to/image3.jpg</p>
 <img src='tables/SalDACov_imim.png'>
 <img src='tables/SalDACov_xmxm.png'>
 
-<h2> SalDACov with generic augmentation techniques evaluation </h2>
+<h2> SalDACov with Generic Augmentation Techniques Evaluation </h2>
 
 <img src='tables/SalDACov_generic1.png'>
 <img src='tables/SalDACov_generic2.png'>
 <img src='tables/SalDACov_generic3.png'>
 
-<h2> DACov evaluation </h2>
+<h2> DACov Evaluation </h2>
 
 <img src='tables/DACov.png'>
 
-<h2> Generic augmentation techniques evaluation </h2>
+<h2> Generic Augmentation Techniques Evaluation </h2>
 
 <img src='tables/unified1.png'>
 <img src='tables/unified2.png'>
