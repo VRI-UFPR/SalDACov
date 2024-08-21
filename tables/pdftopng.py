@@ -14,6 +14,6 @@ def pdf_page_to_svg(pdf_path, page_number, output_path):
     image_data = image.convert("RGB")
     image_data.save(output_path, format='PNG')
 
-pdf_path = 'xmxm_clean.pdf'
-output_path = 'xmxm.png'
+pdf_path = 'isis_clean.pdf'
+output_path = 'isis.png'
 pdf_page_to_svg(pdf_path, 1, output_path)
